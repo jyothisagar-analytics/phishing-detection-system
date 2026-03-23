@@ -42,8 +42,8 @@ phishing-detection-system/
 ├── feature.py          # 30-feature URL extraction class
 ├── flowchart.pdf       # System architecture flowchart
 
----
 
+---
 ## How It Works
 
 ```
