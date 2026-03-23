@@ -36,14 +36,13 @@ This system extracts **30 features** from any given URL — including domain age
 
 ## Project Structure
 
-```
+
 phishing-detection-system/
 ├── app.py              # Main Flask application & routes
 ├── feature.py          # 30-feature URL extraction class
 ├── flowchart.pdf       # System architecture flowchart
 
 
----
 ## How it works
 
 ---
