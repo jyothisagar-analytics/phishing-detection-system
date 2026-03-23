@@ -44,9 +44,9 @@ phishing-detection-system/
 
 
 ---
-## How It Works
+## How it works
 
-```
+---
 User enters URL
       ↓
 Feature extraction (feature.py)
@@ -60,7 +60,7 @@ Feature extraction (feature.py)
 Gradient Boosting Classifier predicts
       ↓
 Result displayed as safety percentage
-```
+---
 
 ---
 
@@ -86,6 +86,7 @@ The final deployed model is the **Gradient Boosting Classifier**.
 ## Setup & Installation
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/YOUR_USERNAME/phishing-detection-system.git
 cd phishing-detection-system
